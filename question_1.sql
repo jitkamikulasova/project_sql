@@ -1,3 +1,4 @@
+-- jitmik, Jitka M.
 -- podotazka
 
 SELECT 
